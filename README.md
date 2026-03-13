@@ -1,4 +1,11 @@
-# mcpelauncher
+# mcpelauncher-patch
+Esto es un fork de mcpelauncher que permite correr minecraft 1.21.131++ y versiones beta
+<img width="1290" height="746" alt="image" src="https://github.com/user-attachments/assets/9ffda189-9a05-47e3-869b-ced2d4abba5c" />
+<img width="1290" height="746" alt="image" src="https://github.com/user-attachments/assets/1cf3aef3-2172-4d5c-be32-51043b503f2f" />
+
+
+
+# ESTO ES EXPERIMENTAL RECOMENDAMOS USAR EL CODIGO PRINCIPAL (SI TIENE PROBLEMAS)
 
 An unstable unofficial launcher for the Android version of Minecraft: Bedrock Edition on linux and macOS.
 
