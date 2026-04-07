@@ -7,7 +7,7 @@ set(GLFW_INSTALL OFF CACHE BOOL "" FORCE)
 
 FetchContent_Declare(
         glfw3_ext
-        URL "https://github.com/minecraft-linux/glfw/archive/3ec31853c4b3c2eb1c066dab56bf8443ae82f8dd.zip"
+        URL "https://github.com/minecraft-linux/glfw/archive/446707b4d9558cd2ef3024622bad320728b974c2.zip"
 )
 
 
